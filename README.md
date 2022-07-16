@@ -19,6 +19,9 @@
 	<li>Integração do back end com o front end, requisição com a biblioteca AXIOS, trabalhamos com React Hook useEffect, paâmetros de consulta, implantação na nuvem.</li>
 </ul
 
+<div align="center">
+</div>
+
 
 
 
