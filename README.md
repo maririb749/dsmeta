@@ -19,8 +19,12 @@
 	<li>Integração do back end com o front end, requisição com a biblioteca AXIOS, trabalhamos com React Hook useEffect, paâmetros de consulta, implantação na nuvem.</li>
 </ul
 
-<div align="center">
-</div>
+
+<p align="center">
+   <img  src = "https://user-images.githubusercontent.com/85500087/179353098-5a36d072-4bd7-415c-8688-a7fbdffea8ff.png">
+</p>
+
+
 
 
 
