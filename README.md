@@ -20,9 +20,9 @@
 </ul
 
 
-<p align="center">
+<div align="center">
    <img  src = "https://user-images.githubusercontent.com/85500087/179353098-5a36d072-4bd7-415c-8688-a7fbdffea8ff.png">
-</p>
+</div>
 
 
 
